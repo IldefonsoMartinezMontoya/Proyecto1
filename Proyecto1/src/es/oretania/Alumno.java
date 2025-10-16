@@ -1,5 +1,5 @@
 package es.oretania;
 
-public class Vehículo {
+public class Alumno {
 
 }
